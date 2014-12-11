@@ -1,0 +1,9 @@
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\bin\Debug\GetTwiceValueApp.exe.config
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\bin\Debug\GetTwiceValueApp.exe
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\bin\Debug\GetTwiceValueApp.pdb
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\obj\Debug\GetTwiceValueApp.csprojResolveAssemblyReference.cache
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\obj\Debug\GetTwiceValueApp.Form1.resources
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\obj\Debug\GetTwiceValueApp.Properties.Resources.resources
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\obj\Debug\GetTwiceValueApp.csproj.GenerateResource.Cache
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\obj\Debug\GetTwiceValueApp.exe
+E:\Shyful\Day3\GetTwiceValueApp\GetTwiceValueApp\obj\Debug\GetTwiceValueApp.pdb

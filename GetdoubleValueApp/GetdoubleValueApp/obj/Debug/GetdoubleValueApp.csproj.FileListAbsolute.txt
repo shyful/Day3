@@ -1,0 +1,9 @@
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\bin\Debug\GetdoubleValueApp.exe.config
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\bin\Debug\GetdoubleValueApp.exe
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\bin\Debug\GetdoubleValueApp.pdb
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\obj\Debug\GetdoubleValueApp.csprojResolveAssemblyReference.cache
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\obj\Debug\GetdoubleValueApp.Form1.resources
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\obj\Debug\GetdoubleValueApp.Properties.Resources.resources
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\obj\Debug\GetdoubleValueApp.csproj.GenerateResource.Cache
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\obj\Debug\GetdoubleValueApp.exe
+E:\Shyful\Day3\GetdoubleValueApp\GetdoubleValueApp\obj\Debug\GetdoubleValueApp.pdb

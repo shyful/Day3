@@ -1,0 +1,6 @@
+E:\Shyful\Day3\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+E:\Shyful\Day3\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+E:\Shyful\Day3\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+E:\Shyful\Day3\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+E:\Shyful\Day3\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+E:\Shyful\Day3\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
